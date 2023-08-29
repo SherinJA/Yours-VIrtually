@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1655637308 source:c:\users\shine\desktop\zoya\untitled1.cpp
+	"header.h"
+	<typeinfo>
+
+1655637066 c:\users\shine\desktop\zoya\header.h
+	<iostream>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<string>
+
+1655638684 source:c:\users\shine\desktop\zoya\main.cpp
+	"header.h"
+	<iostream>
+
+1655668409 source:e:\sem 2\20xt28 - oop lab\package_final_sherin\zoya\main.cpp
+	"header.h"
+	<iostream>
+
+1655671196 e:\sem 2\20xt28 - oop lab\package_final_sherin\zoya\header.h
+	<iostream>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<string>
+	<unistd.h>
+
+1655670254 source:e:\sem 2\20xt28 - oop lab\package_final_sherin\zoya\untitled1.cpp
+	"header.h"
+	<typeinfo>
+
+1655673481 source:e:\sem 2\20xt28 - oop lab\package_final\zoya\main.cpp
+	"header.h"
+	<iostream>
+
+1655675859 e:\sem 2\20xt28 - oop lab\package_final\zoya\header.h
+	<iostream>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<string>
+	<unistd.h>
+
+1655682872 source:c:\users\shine\downloads\zoya\zoya\main.cpp
+	"header.h"
+	<iostream>
+
+1655684840 c:\users\shine\downloads\zoya\zoya\header.h
+	<iostream>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<string>
+	<unistd.h>
+
+1655683869 source:c:\users\shine\downloads\zoya\zoya\untitled1.cpp
+	"header.h"
+	<typeinfo>
+
+1655682874 source:c:\users\shine\documents\sherin- academics\sherin- sem 2\c++\package\zoya, the virtual assistant\zoya\zoya\main.cpp
+	"header.h"
+	<iostream>
+
+1655684842 c:\users\shine\documents\sherin- academics\sherin- sem 2\c++\package\zoya, the virtual assistant\zoya\zoya\header.h
+	<iostream>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<string>
+	<unistd.h>
+
+1655685088 source:c:\users\shine\documents\sherin- academics\sherin- sem 2\c++\package\zoya, the virtual assistant\zoya\zoya\untitled1.cpp
+	"header.h"
+	<typeinfo>
+
